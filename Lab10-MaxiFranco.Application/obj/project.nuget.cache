@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "qltIZrNReJY=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\FRANKOIS\\RiderProjects\\Lab10-MaxiFranco\\Lab10-MaxiFranco.Application\\Lab10-MaxiFranco.Application.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\FRANKOIS\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\10.0.3\\microsoft.extensions.dependencyinjection.abstractions.10.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,12 @@
+C:\Users\FRANKOIS\RiderProjects\Lab10-MaxiFranco\Lab10-MaxiFranco.Domain\bin\Debug\net10.0\Lab10-MaxiFranco.Domain.deps.json
+C:\Users\FRANKOIS\RiderProjects\Lab10-MaxiFranco\Lab10-MaxiFranco.Domain\bin\Debug\net10.0\Lab10-MaxiFranco.Domain.dll
+C:\Users\FRANKOIS\RiderProjects\Lab10-MaxiFranco\Lab10-MaxiFranco.Domain\bin\Debug\net10.0\Lab10-MaxiFranco.Domain.pdb
+C:\Users\FRANKOIS\RiderProjects\Lab10-MaxiFranco\Lab10-MaxiFranco.Domain\obj\Debug\net10.0\Lab10-MaxiFranco.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FRANKOIS\RiderProjects\Lab10-MaxiFranco\Lab10-MaxiFranco.Domain\obj\Debug\net10.0\Lab10-MaxiFranco.Domain.AssemblyInfoInputs.cache
+C:\Users\FRANKOIS\RiderProjects\Lab10-MaxiFranco\Lab10-MaxiFranco.Domain\obj\Debug\net10.0\Lab10-MaxiFranco.Domain.AssemblyInfo.cs
+C:\Users\FRANKOIS\RiderProjects\Lab10-MaxiFranco\Lab10-MaxiFranco.Domain\obj\Debug\net10.0\Lab10-MaxiFranco.Domain.csproj.CoreCompileInputs.cache
+C:\Users\FRANKOIS\RiderProjects\Lab10-MaxiFranco\Lab10-MaxiFranco.Domain\obj\Debug\net10.0\Lab10-MaxiFranco.Domain.sourcelink.json
+C:\Users\FRANKOIS\RiderProjects\Lab10-MaxiFranco\Lab10-MaxiFranco.Domain\obj\Debug\net10.0\Lab10-MaxiFranco.Domain.dll
+C:\Users\FRANKOIS\RiderProjects\Lab10-MaxiFranco\Lab10-MaxiFranco.Domain\obj\Debug\net10.0\refint\Lab10-MaxiFranco.Domain.dll
+C:\Users\FRANKOIS\RiderProjects\Lab10-MaxiFranco\Lab10-MaxiFranco.Domain\obj\Debug\net10.0\Lab10-MaxiFranco.Domain.pdb
+C:\Users\FRANKOIS\RiderProjects\Lab10-MaxiFranco\Lab10-MaxiFranco.Domain\obj\Debug\net10.0\ref\Lab10-MaxiFranco.Domain.dll

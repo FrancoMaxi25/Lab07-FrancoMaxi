@@ -1,0 +1,16 @@
+C:\Users\FRANKOIS\RiderProjects\Lab10-MaxiFranco\Lab10-MaxiFranco.Application\bin\Debug\net10.0\Lab10-MaxiFranco.Application.deps.json
+C:\Users\FRANKOIS\RiderProjects\Lab10-MaxiFranco\Lab10-MaxiFranco.Application\bin\Debug\net10.0\Lab10-MaxiFranco.Application.dll
+C:\Users\FRANKOIS\RiderProjects\Lab10-MaxiFranco\Lab10-MaxiFranco.Application\bin\Debug\net10.0\Lab10-MaxiFranco.Application.pdb
+C:\Users\FRANKOIS\RiderProjects\Lab10-MaxiFranco\Lab10-MaxiFranco.Application\bin\Debug\net10.0\Lab10-MaxiFranco.Domain.dll
+C:\Users\FRANKOIS\RiderProjects\Lab10-MaxiFranco\Lab10-MaxiFranco.Application\bin\Debug\net10.0\Lab10-MaxiFranco.Domain.pdb
+C:\Users\FRANKOIS\RiderProjects\Lab10-MaxiFranco\Lab10-MaxiFranco.Application\obj\Debug\net10.0\Lab10-MaxiFranco.Application.csproj.AssemblyReference.cache
+C:\Users\FRANKOIS\RiderProjects\Lab10-MaxiFranco\Lab10-MaxiFranco.Application\obj\Debug\net10.0\Lab10-MaxiFranco.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FRANKOIS\RiderProjects\Lab10-MaxiFranco\Lab10-MaxiFranco.Application\obj\Debug\net10.0\Lab10-MaxiFranco.Application.AssemblyInfoInputs.cache
+C:\Users\FRANKOIS\RiderProjects\Lab10-MaxiFranco\Lab10-MaxiFranco.Application\obj\Debug\net10.0\Lab10-MaxiFranco.Application.AssemblyInfo.cs
+C:\Users\FRANKOIS\RiderProjects\Lab10-MaxiFranco\Lab10-MaxiFranco.Application\obj\Debug\net10.0\Lab10-MaxiFranco.Application.csproj.CoreCompileInputs.cache
+C:\Users\FRANKOIS\RiderProjects\Lab10-MaxiFranco\Lab10-MaxiFranco.Application\obj\Debug\net10.0\Lab10-MaxiFranco.Application.sourcelink.json
+C:\Users\FRANKOIS\RiderProjects\Lab10-MaxiFranco\Lab10-MaxiFranco.Application\obj\Debug\net10.0\Lab10-Ma.A9BB754A.Up2Date
+C:\Users\FRANKOIS\RiderProjects\Lab10-MaxiFranco\Lab10-MaxiFranco.Application\obj\Debug\net10.0\Lab10-MaxiFranco.Application.dll
+C:\Users\FRANKOIS\RiderProjects\Lab10-MaxiFranco\Lab10-MaxiFranco.Application\obj\Debug\net10.0\refint\Lab10-MaxiFranco.Application.dll
+C:\Users\FRANKOIS\RiderProjects\Lab10-MaxiFranco\Lab10-MaxiFranco.Application\obj\Debug\net10.0\Lab10-MaxiFranco.Application.pdb
+C:\Users\FRANKOIS\RiderProjects\Lab10-MaxiFranco\Lab10-MaxiFranco.Application\obj\Debug\net10.0\ref\Lab10-MaxiFranco.Application.dll
